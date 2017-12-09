@@ -1,5 +1,7 @@
 # Nextein Starter
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/elmasse/nextein-starter.svg)](https://greenkeeper.io/)
+
 This is an starter skeleton for [Nextein](https://nextein.now.sh) sites.
 
 # Development
